@@ -1,4 +1,4 @@
-- hello! i’m christine. i'm a senior majoring in statistics at the university of central florida!
+- hello! i’m christine. i graduated with a bachelor's in statistics from the university of central florida and i'm now pursuing a master's in biostatistics at duke university!
 - i created a github so that i have a space to organize all my code and projects but to also have a space of learning and expanding on my programming skills! enjoy looking through my code!
 - 💞️ linkedin: https://www.linkedin.com/in/christinesbui/ 
 - 📫 email: christinesbui15@gmail.com 
